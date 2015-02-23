@@ -1,8 +1,8 @@
 ##Code Book - Human Activity Recognition Using Smartphones Data Set
 
-SubjectID - An identifier of the subject who carried out the experiment
-ActivityID - Activity ID number corresponding to Activity
-Activity
+* SubjectID - An identifier of the subject who carried out the experiment
+* ActivityID - Activity ID number corresponding to Activity
+* Activity
   * 1 - WALKING
   * 2 - WALKING_UPSTAIRS
   * 3 - WALKING_DOWNSTAIRS

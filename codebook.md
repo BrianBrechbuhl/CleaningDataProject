@@ -1,14 +1,14 @@
 ##Code Book - Human Activity Recognition Using Smartphones Data Set
 
-SubjectID - An identifier of the subject who carried out the experiment
-ActivityID - Activity ID number corresponding to Activity
-Activity
-  1 - WALKING
-  2 - WALKING_UPSTAIRS
-  3 - WALKING_DOWNSTAIRS
-  4 - SITTING 
-  6 - STANDING
-  7 - LAYING
+* SubjectID - An identifier of the subject who carried out the experiment
+* ActivityID - Activity ID number corresponding to Activity
+* Activity
+  * 1 - WALKING
+  * 2 - WALKING_UPSTAIRS
+  * 3 - WALKING_DOWNSTAIRS
+  * 4 - SITTING 
+  * 6 - STANDING
+  * 7 - LAYING
 
 Accelerometer and Gyroscope variables below were measured on a 3-D axis therefore have X, Y, Z as a suffix corresponding
 to the axis. Furthermore the data includes the mean and standard deviation of the variable. Mean and std are also used 
